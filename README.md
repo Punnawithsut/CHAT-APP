@@ -1,1 +1,1 @@
-src: Great Stack
+src: GreatStack
